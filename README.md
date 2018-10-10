@@ -1,6 +1,6 @@
 # Data Scientist
 
-This extension course is very useful to help me to have an in-depth training in data science and is another degral to become an Artificial Intelligence Engineer with knowledge in Deep Reinforcement Learning Expert.
+This extension course is very useful to help me to have an in-depth training in data science and is another step to become an Artificial Intelligence Engineer with knowledge in Deep Reinforcement Learning Expert.
 
 ## Projects:
 
