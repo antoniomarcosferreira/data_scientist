@@ -8,6 +8,8 @@ This extension course is very useful to help me to have an in-depth training in 
 
 ### [Customer Segments](https://github.com/antoniomarcosferreira/data_scientist/tree/master/customer_segments)
 
+### [Hadoop Map Reduce](https://github.com/antoniomarcosferreira/data_scientist/tree/master/hadoop_map_reduce)
+
 ---
 
 Thanks!
