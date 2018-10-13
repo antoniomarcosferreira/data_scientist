@@ -11,9 +11,7 @@ This project contains basic script used in the tests done with Hadoop and Map Re
 - [Python](http://www.python.org/)
 See the [Python Reference](https://www.udacity.com/wiki/cs101/%3A-python-reference) doc from Intro to Computer Science for a review of Python basics and syntax.
 
-- [Cloudera](https://www.cloudera.com/)
-
-- It was used the [virtual machine](http://content.udacity-data.com/courses/ud617/Cloudera-Udacity-Training-VM-4.1.1.c.zip) made available by Cloudera in partnership with Udacity running in KVM. 
+- [Cloudera](https://www.cloudera.com/) - It was used the virtual machine (http://content.udacity-data.com/courses/ud617/Cloudera-Udacity-Training-VM-4.1.1.c.zip) made available by Cloudera in partnership with Udacity running in KVM. 
 
 ### Scripts are separated by folders. 
 
